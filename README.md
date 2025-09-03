@@ -1,10 +1,14 @@
+<img width="1581" height="960" alt="Screenshot from 2025-09-04 03-01-10" src="https://github.com/user-attachments/assets/7dc6cc6b-ca6b-4153-8b47-7009be4210f6" />
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+bash
 npm run dev
 # or
 yarn dev
@@ -12,7 +16,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
